@@ -5,7 +5,7 @@ A small node library to format durations
 #### Installation
 
 ```bash
-npm install git://github.com/floorbot-js/dhms.js
+npm install github:floorbot-js/dhms.js
 ```
 
 #### Examples
